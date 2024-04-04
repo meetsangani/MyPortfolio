@@ -129,7 +129,7 @@ body {
 }
 
 .btn-box {
-    margin-left: 30px;
+    margin-left: 6.5%;
     display: inline-block;
     padding: 12px 28px;
     background: #0ef;
@@ -163,26 +163,29 @@ body {
     max-width: 450px;
     height: auto;
     width: 100%;
-    margin-left: 6.5%;
-    border-radius: 8px;
+    margin-left: 25%;
+    border-radius: 10px;
 }
 .about-text h2{
-    margin-left: 30px;
+    margin-left: 6.5%;
     font-size: 60px;
 }
 .about-text h2 span{
     color: #0ef;
 }
 .about-text h4{
-    margin-left: 30px;
-    font-size: 29px;
+    font-size: 30px;
     font-weight: 600;
     color: #fff;
+    margin-left: 6%;
     line-height: 1.7;
-    margin: 25px 30px 30px;
+    margin: 30px 105px 30px ;
+}
+.about-text h4 span{
+    color: #0ef;
 }
 .about-text p{
-    margin-left: 30px;
+    margin-left: 6.5%;
     color: aliceblue;
     font-size: 20px;
     line-height: 1.4;
